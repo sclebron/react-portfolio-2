@@ -3,6 +3,12 @@
     font-weight: 300;
 }
 
+.contactInfo {
+    position: relative;
+    z-index: 1;
+    background: black;
+}
+
 .contactForm {
     position: relative;
     z-index: 1;
