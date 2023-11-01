@@ -32,7 +32,7 @@ const Contact = () => {
 return <div className="contactContainer">
         <Particles />
         <div class="title">Contact</div>
-        <div className="contactInfo">
+        {/* <div className="contactInfo">
             <div className="infoTitle">Contact Info</div>
             <div className="info">
                 <div className="email">Email: sophieclebron@gmail.com</div>
@@ -40,8 +40,8 @@ return <div className="contactContainer">
                 <div className="city">Denver, CO</div>
                 <button onClick={displayContactForm}>Send Me A Message!</button>
             </div>
-        </div>
-        {/* <div className="contactForm">
+        </div> */}
+        <div className="contactForm">
             <form ref={form} onSubmit={sendEmail}>
                 <h2 className="contactTitle">Reach out!</h2>
                 <input type="text" name="user_name" className="input" placeholder="Name"/>
@@ -49,7 +49,7 @@ return <div className="contactContainer">
                 <textarea name="message" className="textarea" placeholder="Your Message"/>
                 <input type="submit" value="Submit" className="input" />
             </form>
-        </div> */}
+        </div>
     </div>
 }
 
