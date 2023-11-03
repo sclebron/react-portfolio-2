@@ -11,7 +11,7 @@ import fairFare from './images/fairFare.png';
 import employeeTracker from './images/employeeTracker.png';
 import profile from './images/profile.png';
 import readme from './images/readme.png';
-import schedule from './images/schedule.png';
+import todo from './images/todo.png';
 
 function Project() {
     const projects = [
@@ -56,10 +56,10 @@ function Project() {
         link: "https://drive.google.com/file/d/11XjkS0KC7A9QlDNQUtZt6K0Wgza5aUhY/view",
         },
         {
-        title: "Work Day Scheduler",
-        img: schedule,
+        title: "To Do List",
+        img: todo,
         description: "A planner that allows the user to add, edit, and delete events.",
-        technologies: "JavaScript",
+        technologies: "TypeScript",
         button: "Visit Site",
         link: "https://sclebron.github.io/work-day-schedule/",
         }
