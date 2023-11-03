@@ -58,10 +58,10 @@ function Project() {
         {
         title: "To Do List",
         img: todo,
-        description: "A planner that allows the user to add, edit, and delete events.",
+        description: "A site that allows you to add, check, and delete items on your to do list.",
         technologies: "TypeScript",
         button: "Visit Site",
-        link: "https://sclebron.github.io/work-day-schedule/",
+        link: "https://sclebron.github.io/typescript-todo/",
         }
     ]
 
