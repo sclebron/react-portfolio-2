@@ -11,7 +11,7 @@ import {
 import { SiExpress } from "react-icons/si";
 import "./aboutMe.css";
 import Particles from './particles.jsx';
-import '.../components/footer.css';
+// import '.../components/footer.css';
 
 function AboutMe() {
     return (
