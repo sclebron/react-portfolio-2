@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function NavBar() {
   return (
       <div className="navBar">
-      <Link to="/react-portfolio/">
+      <Link to="/react-portfolio-2/">
           <button className="navBtn" id="homepage">
             Home
           </button>
