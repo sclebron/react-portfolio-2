@@ -2,7 +2,6 @@ import React from 'react';
 import './homepage.css';
 import Footer from '/Users/sophielebron/Desktop/coding-projects/react-portfolio-2/src/components/footer/footer.js';
 import Particles from './homepageParticles.jsx';
-src/components/footer/footer.js
 
 function Homepage() {
     return (
