@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import './contact.css';
 import Particles from './particles.jsx';
 import emailjs from '@emailjs/browser';
-// import Footer from '../components/footer/footer.js';
+import Footer from '/Users/sophielebron/Desktop/coding-projects/react-portfolio-2/src/components/footer/footer.js';
 
 const Contact = () => {
 
@@ -51,7 +51,7 @@ return <div className="contactContainer">
                 <input type="submit" value="Submit" className="input" />
             </form>
         </div>
-        {/* <Footer /> */}
+        <Footer />
     </div>
 }
 
