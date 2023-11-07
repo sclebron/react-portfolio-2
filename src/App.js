@@ -17,7 +17,7 @@ function App() {
         <NavBar />
         <Routes>
             <Route path='/aboutme' element={<AboutMe/>}/>
-            <Route path='/' element={<Homepage/>}/>
+            <Route path='/react-portfolio-2/' element={<Homepage/>}/>
             <Route path='/projects' element={<Projects/>}/>
             <Route path='/resume' element={<Resume/>}/>
             <Route path='/contact' element={<Contact/>}/>
