@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Footer from './components/footer/footer.js';
+// import Footer from './components/footer/footer.js';
 import NavBar from './components/navBar/navBar.js';
 import AboutMe from './pages/aboutMe/aboutMe.js';
 import Contact from './pages/contact/contact.js';
@@ -22,7 +22,7 @@ function App() {
             <Route path='/resume' element={<Resume/>}/>
             <Route path='/contact' element={<Contact/>}/>
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
     </Router>
     </div>
   );
