@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-2/static/css/main.dfe9643d.css",
-    "main.js": "/react-portfolio-2/static/js/main.6c4089d9.js",
+    "main.css": "/react-portfolio-2/static/css/main.cb709db8.css",
+    "main.js": "/react-portfolio-2/static/js/main.0a0da720.js",
     "static/js/787.a7249224.chunk.js": "/react-portfolio-2/static/js/787.a7249224.chunk.js",
     "static/media/fairFare.png": "/react-portfolio-2/static/media/fairFare.2198f0e6307a8ec3bac3.png",
     "static/media/resume.png": "/react-portfolio-2/static/media/resume.10a838ac8ae22b7279ac.png",
@@ -12,12 +12,12 @@
     "static/media/employeeTracker.png": "/react-portfolio-2/static/media/employeeTracker.59b54eb5e3887a8ea0c5.png",
     "static/media/zorkForDogs.png": "/react-portfolio-2/static/media/zorkForDogs.8b20de24abeac7f5f3e0.png",
     "index.html": "/react-portfolio-2/index.html",
-    "main.dfe9643d.css.map": "/react-portfolio-2/static/css/main.dfe9643d.css.map",
-    "main.6c4089d9.js.map": "/react-portfolio-2/static/js/main.6c4089d9.js.map",
+    "main.cb709db8.css.map": "/react-portfolio-2/static/css/main.cb709db8.css.map",
+    "main.0a0da720.js.map": "/react-portfolio-2/static/js/main.0a0da720.js.map",
     "787.a7249224.chunk.js.map": "/react-portfolio-2/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfe9643d.css",
-    "static/js/main.6c4089d9.js"
+    "static/css/main.cb709db8.css",
+    "static/js/main.0a0da720.js"
   ]
 }
