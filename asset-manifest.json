@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio-2/static/css/main.cb709db8.css",
-    "main.js": "/react-portfolio-2/static/js/main.d5dba077.js",
+    "main.js": "/react-portfolio-2/static/js/main.98fb06f4.js",
     "static/js/787.a7249224.chunk.js": "/react-portfolio-2/static/js/787.a7249224.chunk.js",
     "static/media/fairFare.png": "/react-portfolio-2/static/media/fairFare.2198f0e6307a8ec3bac3.png",
-    "static/media/resume.png": "/react-portfolio-2/static/media/resume.10a838ac8ae22b7279ac.png",
-    "static/media/Sophie_LeBron_Resume.pdf": "/react-portfolio-2/static/media/Sophie_LeBron_Resume.1d97837e628b68879291.pdf",
+    "static/media/resume.png": "/react-portfolio-2/static/media/resume.4b098fca5b28a939432d.png",
+    "static/media/Sophie_LeBron_Resume.pdf": "/react-portfolio-2/static/media/Sophie_LeBron_Resume.0694aa097a47172147f5.pdf",
     "static/media/readme.png": "/react-portfolio-2/static/media/readme.11f4256d7ea8124aa4fc.png",
     "static/media/profile.png": "/react-portfolio-2/static/media/profile.907570075cebe429a237.png",
     "static/media/todo.png": "/react-portfolio-2/static/media/todo.8c75b0cd03321aa0d10b.png",
@@ -13,11 +13,11 @@
     "static/media/zorkForDogs.png": "/react-portfolio-2/static/media/zorkForDogs.8b20de24abeac7f5f3e0.png",
     "index.html": "/react-portfolio-2/index.html",
     "main.cb709db8.css.map": "/react-portfolio-2/static/css/main.cb709db8.css.map",
-    "main.d5dba077.js.map": "/react-portfolio-2/static/js/main.d5dba077.js.map",
+    "main.98fb06f4.js.map": "/react-portfolio-2/static/js/main.98fb06f4.js.map",
     "787.a7249224.chunk.js.map": "/react-portfolio-2/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb709db8.css",
-    "static/js/main.d5dba077.js"
+    "static/js/main.98fb06f4.js"
   ]
 }
