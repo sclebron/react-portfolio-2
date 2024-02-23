@@ -9,7 +9,7 @@ import zorkForDogs from './images/zorkForDogs.png';
 import fairFare from './images/fairFare.png';
 import employeeTracker from './images/employeeTracker.png';
 import profile from './images/profile.png';
-import readme from './images/readme.png';
+import denver from './images/denver.png';
 import todo from './images/todo.png';
 
 function Project() {
@@ -21,6 +21,14 @@ function Project() {
         technologies: "JavaScript, MySQL, Express Handlebars",
         button: "Watch Demo",
         link: "https://drive.google.com/file/d/1OBknxErYsa4NeJtO_YZFQZu1aCZ2LnW2/view",
+        },
+        {
+        title: "What To Do In Denver",
+        img: denver,
+        description: "A website to help you pick activities to do in and around Denver, CO!",
+        technologies: "React, JavaScript",
+        button: "Visit Site",
+        link: "https://sclebron.github.io/what-to-do-in-denver/",
         },
         {
         title: "Zork for Dogs",
@@ -45,14 +53,6 @@ function Project() {
         technologies: "Node.js, Inquirer",
         button: "Watch Demo",
         link: "https://drive.google.com/file/d/19T7df7bgN-fr1euWY-5yfWXA7tfmdHGU/view",
-        },
-        {
-        title: "README Generator",
-        img: readme,
-        description: "A command line application that creates a README.md template.",
-        technologies: "Node.js, Inquirer",
-        button: "Watch Demo",
-        link: "https://drive.google.com/file/d/11XjkS0KC7A9QlDNQUtZt6K0Wgza5aUhY/view",
         },
         {
         title: "To Do List",
